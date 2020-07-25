@@ -6,7 +6,7 @@ layout: home
 ---
 <div style="border-bottom: 1px solid #e8e8e8;margin-bottom: 20px;">
 <div align="center">
-<img src="./kavir.jpg" style="width: 200px; height: 200px; border-radius: 50%; border:2px solid #00ccff;"><!-- border:5px solid white; -->
+<img src="./kavir.jpg" style="width: 200px; height: 200px; border-radius: 50%;"><!-- border:5px solid white; -->
 <div style="margin-top:20px;margin-bottom:20px;">
 <span class="post-meta">
 #toddler #kavirsaxena #newbie
